@@ -6,4 +6,4 @@
 
 - docker-compose.yml: To bundle the group of services as a whole.
 
-<a href="docker-compose.yml Example">docker-compose.yml file Example</a>
+<a href="docker-compose Example.yml">docker-compose.yml file Example</a>

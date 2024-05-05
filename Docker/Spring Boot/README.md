@@ -16,9 +16,9 @@ docker run -p 8090:8080 --name springbootCalculator ankit/springbootcalculator:1
 - To tag the image (before PUSH to repository):
 
 >> NOTE: You need to include the namespace for Docker Hub to associate it with your account. The namespace is the same as your Docker Hub account name. You need to rename the image to
-  ```bash
+
   YOUR_DOCKERHUB_NAME/docker-whale.
-  ```
+
 ```bash 
 docker tag ankit/springbootcalculator:1.0.0 ankitvatsa/springbootcalculator
 ```

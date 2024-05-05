@@ -1,4 +1,5 @@
-- Make a Spring Boot Application - Simple RESTful Web Services API.
+- Develop a Spring Boot Application - Simple RESTful Web Services API.
+- Click on Project -> Run as -> Maven Install
 
 Create a file named "Dockerfile" in the same directory as project.
 
